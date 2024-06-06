@@ -20,7 +20,6 @@ from sklearn.metrics import accuracy_score
 from sklearn.metrics import confusion_matrix
 import matplotlib.pyplot as plt
 from streamlit_option_menu import option_menu
-import seaborn as sns
 from collections import defaultdict
 with warnings.catch_warnings():
     warnings.filterwarnings("ignore")
